@@ -6,4 +6,4 @@ fruits = {
 
 fruits[:orange] = 4
 
-puts fruits.inspect
+puts fruits
